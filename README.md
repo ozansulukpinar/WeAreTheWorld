@@ -18,7 +18,7 @@ Who knows, maybe you explore a very awesome developer you never see before.
 
 ## Screenshots
 
-[Screenshot](https://raw.githubusercontent.com/ozansulukpinar/WeAreTheWorld/main/screenshot.JPG?token=AMOQA3T3IOKKKTDL3G2UUM3A5IGTO)
+![screenshot](https://user-images.githubusercontent.com/52232302/125176713-52054b00-e1de-11eb-9b57-d4a73cdcd7ef.JPG)
 
 ## Technologies
 
